@@ -1,3 +1,7 @@
+/*
+https://github.com/LeafCutterLabs/openGRID
+*/
+
 #include <FastLED.h>
 #include <Keypad.h>
 
